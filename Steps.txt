@@ -1,0 +1,5 @@
+Dataset link:-https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+Steps to run:-
+open command prompt and navigate to your project folder directory
+1.pip install streamlit torch torchvision(for first time execution only)
+2.streamlit run app.py
